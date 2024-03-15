@@ -27,7 +27,7 @@ To use the package as a consumer, simply visit the deployed link and use the nav
 To use the package as a Developer, after following the installation steps above, at the root of the project directory run command 'npm start' in your CLI, then click the link in the CLI to view site from localhost. Be sure you're also set up to run a react app if you want to create your own. Remember to set up a Getform.io to collect contact information!
 
 ## Deployment
-Live URL: https://imanmogh.github.io/reactPortfolio/
+Live URL: https://imanmogh.github.io/iman-portfolio/
 
 ## Screenshot
 ![Alt text](screenshots/home-screenshot.png)
