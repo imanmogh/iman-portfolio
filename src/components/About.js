@@ -1,14 +1,13 @@
 import React from 'react';
 
 export const About = () => {
-  return (
-    <div>
+    return (
       <div name="about" className='w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white'>
         <div className='max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full'>
           <div className='pb-8'>
             <p className='text-4xl font-bold inline border-b-4 border-gray-500'>About</p>
           </div>
-          <p className='text-xl mt-20 '>
+          <p className='text-xl mt-20'>
             Hi, I'm Iman Moghaddas, a 25-year-old full-stack software developer. Graduating with a Bachelor of Science degree in Software Engineering from Kennesaw State University in December 2021, 
             I've honed my skills in building comprehensive software solutions.
           </p>
@@ -26,13 +25,10 @@ export const About = () => {
           <p className='text-xl'>
             In my quest for continual growth, I enthusiastically embrace new challenges and opportunities to expand my horizons. 
             I thrive on the excitement of learning and mastering new activities, enriching my life with diverse experiences and knowledge.
-
             Thank you for taking the time to learn a bit about me. I'm excited to connect and explore potential collaborations and opportunities together.
           </p>
         </div>
       </div>
-    </div>
-  );
-};
-
-export default About;
+    );
+  };
+  
