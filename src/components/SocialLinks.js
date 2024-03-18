@@ -48,7 +48,7 @@ const SocialLinks = () => {
           Resume <BsFillPersonLinesFill size={30}/>
         </>
       ),
-      href: 'public/Iman-Resume.pdf',
+      href: 'portfolio/Iman-Resume.pdf',
       download: true
     }
   ];
