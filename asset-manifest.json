@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/iman-portfolio/static/css/main.9803b152.css",
-    "main.js": "/iman-portfolio/static/js/main.efaabcca.js",
+    "main.js": "/iman-portfolio/static/js/main.ba65e095.js",
     "static/media/promptopia.png": "/iman-portfolio/static/media/promptopia.fe5887452ee6365544c6.png",
     "static/media/ABMR.png": "/iman-portfolio/static/media/ABMR.a9ba3897dfe8386f0979.png",
     "static/media/profilePic.jpeg": "/iman-portfolio/static/media/profilePic.3c0b5113a5a3a4945645.jpeg",
@@ -18,10 +18,10 @@
     "static/media/javascript.png": "/iman-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/iman-portfolio/index.html",
     "main.9803b152.css.map": "/iman-portfolio/static/css/main.9803b152.css.map",
-    "main.efaabcca.js.map": "/iman-portfolio/static/js/main.efaabcca.js.map"
+    "main.ba65e095.js.map": "/iman-portfolio/static/js/main.ba65e095.js.map"
   },
   "entrypoints": [
     "static/css/main.9803b152.css",
-    "static/js/main.efaabcca.js"
+    "static/js/main.ba65e095.js"
   ]
 }
