@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { FaBars, FaTimes } from "react-icons/fa";
 import { Link } from "react-scroll";
 
-export const NavBar = () => {
+const NavBar = () => {
     const links = [
       { id: 1, link: "home" },
       { id: 2, link: "about" },
@@ -18,14 +18,14 @@ export const NavBar = () => {
         <div>
           <h1 className='text-4xl sm:text-4xl md:text-5xl font-signature ml-2'>Iman Moghaddas</h1>
         </div>
-        <ul className='hidden md:flex'>
+        <ul className='hidden md:flex flex-grow justify-end'>
           {links.map(({ id, link }) => (
             <li key={id} className='px-4 cursor-pointer capitalize font-medium text-gray-500 hover:scale-105 duration-200'>
               <Link to={link} smooth duration={500}>{link}</Link>
             </li>
           ))}
         </ul>
-        <div onClick={() => setNav(!nav)} className='cursor-point pr-4 z-10 text-gray-500 md:hidden'>
+        <div onClick={() => setNav(!nav)} className='cursor-pointer pr-4 z-10 text-gray-500 md:hidden'>
           {nav ? <FaTimes size={30}/> : <FaBars size={30} />}
         </div>
         {nav && (
@@ -39,5 +39,6 @@ export const NavBar = () => {
         )}
       </div>
     );
-  };
-  
+};
+
+export default NavBar;

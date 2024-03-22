@@ -25,7 +25,7 @@ export const Home = () => {
           </div>
         </div>
         <div>
-          <img src={profile} alt='Iman' className='rounded-2xl mx-auto w-2/3 md:w-2/3 opacity-80'/>
+        <img src={profile} alt='Iman' className='rounded-2xl mx-auto w-2/3 md:w-2/3 max-w-full h-auto opacity-80'/>
         </div>
       </div>
     </div>
