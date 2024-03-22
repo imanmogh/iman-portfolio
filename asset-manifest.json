@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/iman-portfolio/static/css/main.d4105218.css",
-    "main.js": "/iman-portfolio/static/js/main.c938604e.js",
+    "main.css": "/iman-portfolio/static/css/main.51dbba6b.css",
+    "main.js": "/iman-portfolio/static/js/main.4b41888f.js",
     "static/media/promptopia.png": "/iman-portfolio/static/media/promptopia.fe5887452ee6365544c6.png",
     "static/media/ABMR.png": "/iman-portfolio/static/media/ABMR.a9ba3897dfe8386f0979.png",
     "static/media/profilePic.jpeg": "/iman-portfolio/static/media/profilePic.3c0b5113a5a3a4945645.jpeg",
@@ -17,11 +17,11 @@
     "static/media/css.png": "/iman-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/iman-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/iman-portfolio/index.html",
-    "main.d4105218.css.map": "/iman-portfolio/static/css/main.d4105218.css.map",
-    "main.c938604e.js.map": "/iman-portfolio/static/js/main.c938604e.js.map"
+    "main.51dbba6b.css.map": "/iman-portfolio/static/css/main.51dbba6b.css.map",
+    "main.4b41888f.js.map": "/iman-portfolio/static/js/main.4b41888f.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4105218.css",
-    "static/js/main.c938604e.js"
+    "static/css/main.51dbba6b.css",
+    "static/js/main.4b41888f.js"
   ]
 }
