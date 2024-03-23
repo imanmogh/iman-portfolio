@@ -37,7 +37,7 @@ export const Home = () => {
           <img
             src={profile}
             alt="my profile"
-            className="rounded-2xl mx-auto w-2/3 md:w-full"
+            className="rounded-2xl mx-auto w-2/3 md:w-3/4"
           />
         </div>
       </div>
