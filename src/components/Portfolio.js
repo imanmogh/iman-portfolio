@@ -1,8 +1,6 @@
 import React from 'react';
 import ABMR from '../assets/ABMR.png';
-import noteTaker from '../assets/noteTaker.png';
 import passwordGenerator from '../assets/passwordGenerator.png';
-import calmQuest from '../assets/calmQuest.png';
 import promptopia from '../assets/promptopia.png';
 
 export const Portfolio = () => {
